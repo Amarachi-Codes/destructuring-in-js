@@ -1,7 +1,7 @@
 let colors = ['red', 'yellow','orange','brown', 'blue', 'pink']
-//  const [r, y, o, br, bu, p] = colors
-// console.log(br)
-// console.log(colors[0]);
+ const [r, y, o, br, bu, p] = colors
+console.log(br)
+console.log(colors[0]);
 
 const people = {
     name: 'John',
@@ -9,11 +9,11 @@ const people = {
     city: 'newyork'
     }
 
-    // const {name,age,city}=people
-    // console.log(age)
+    const {name,age,city}=people
+    console.log(age)
 
-    //older method
-    // console.log(people.city);
+    // older method
+    console.log(people.city);
     
     const student ={
         name:'Emeka_Igwe',
